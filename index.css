@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div#centro {
+    height: 20vh;
+    width: 100vw;
+    background-color: beige;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+}
+footer {
+    position: absolute;
+    bottom: 0px;
+    height: 5vh;
+    background-color:aliceblue;
+}
